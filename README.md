@@ -1,2 +1,1 @@
-# Online-Retail-Exploratory-Data-Analysis
-Online Retail Exploratory Data Analysis
+In this project, I worked with transactional data from an online retail store. The dataset contains information about customer purchases, including product details, quantities, prices, and timestamps. My task was to explore and analyze this dataset to gain insights into the store's sales trends, customer behavior, and popular products.
